@@ -9,6 +9,8 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
+    "leapyear": "tsc & jest LeapYearKata.test.ts",
+    "fizzbuzz": "tsc & jest FizzBuzzKata.test.ts",
     "lint": "eslint ./src --ext .ts"
   },
   "repository": {

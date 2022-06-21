@@ -3,7 +3,11 @@
 ### Building Optimus code dojo project
 npm run build
 
-npm run test
+Build Leap year kata: 
+npm run leapyear
+
+Build FizzBuzz kata:
+npm run fizzbuzz
 ## Current Katas
 ### Fizz-Buzz Kata
 
