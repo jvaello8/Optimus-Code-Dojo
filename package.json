@@ -11,6 +11,7 @@
     "test": "jest",
     "leapyear": "tsc & jest LeapYearKata.test.ts",
     "fizzbuzz": "tsc & jest FizzBuzzKata.test.ts",
+    "passwordvalidator": "tsc & jest PasswordValidatorKata.test.ts",
     "lint": "eslint ./src --ext .ts"
   },
   "repository": {
